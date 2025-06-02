@@ -39,10 +39,15 @@ A simple Java Swing desktop application for user registration (signup) and authe
 ## File Structure
 
 LoginSignupSwingApp/
+
 ├── java_login_page.java
+
 ├── users.txt # Created automatically; stores user credentials
+
 ├── login_log.txt # Created automatically; logs login attempts
+
 ├── .gitignore
+
 ├── README.md
 
 
